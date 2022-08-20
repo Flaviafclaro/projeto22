@@ -1,1 +1,12 @@
 git basico 2
+
+Sequência
+1 - clique direito na pasta e git bash here
+2 - git init + enter
+3 - git status + enter
+
+============================
+Branch
+git branch           //vai exibir as branchs disponiveis
+git staging          //cria uma branch de nome staging
+git chackout staging //trabalhando na branch staging
