@@ -19,5 +19,5 @@ git merge staging      //staging é o nome da branch que eu fiz
 git push
 ============================
 Pull
-git pull  //trazendo a ultima versão antes de dar push, caso             alguém tenha feito outras atualizações no caso de             trabalho em grupo
+git pull  //trazendo a ultima versão antes de dar push, caso             alguém tenha feito outras atualizações no caso de             trabalho em grupo.
 
