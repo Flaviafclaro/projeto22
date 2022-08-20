@@ -14,3 +14,4 @@ git chackout staging //trabalhando na branch staging
 Merge
 git checkout master    //indo para a branch para onde vai o merge
 git merge staging
+git push
