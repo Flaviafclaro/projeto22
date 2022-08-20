@@ -20,4 +20,9 @@ git push
 ============================
 Pull
 git pull  //trazendo a ultima versão antes de dar push, caso             alguém tenha feito outras atualizações no caso de             trabalho em grupo.
+============================
+Ignore
+touch .gitignore   //criando o arquivo ignore
+
+abrir este arquivo como bloco de notas e incluir o caminho dos arquivos a sere ignorados, o gitignore deve ser adicionado com o git add .
 
