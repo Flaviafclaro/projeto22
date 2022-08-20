@@ -4,7 +4,7 @@ git add . // adicionar todos os arquivos da pasta
 
 git
 
-https://github.com/Flaviafclaro/projeto22gi
+https://github.com/Flaviafclaro/projeto22
 
 
 
@@ -26,3 +26,11 @@ commit
 git config -- global user.email "email@email.com"
 git config -- global user.name "Flavia Claro"
 git commit -m "mensagem"
+
+=============
+github
+=============
+git remote add origin https://github.com/Flaviafclaro/projeto22
+git push --set-upstream origin master
+new line================
+
