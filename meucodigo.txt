@@ -32,5 +32,8 @@ github
 =============
 git remote add origin https://github.com/Flaviafclaro/projeto22
 git push --set-upstream origin master
-new line================
+new line********************
+===================
+git reflog //historico de versões
+git reset id --hard r3443 (id que aparece no historico) serve paa ir para versão que se quer, para frente ou para trás
 
